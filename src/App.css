@@ -3,3 +3,16 @@
   font-family: Avenir;
   font-size: 30px;
 }
+
+.projects-container {
+  text-align: center;
+}
+
+.project-description {
+  font-size: 25px;
+}
+
+.project-technologies {
+  font-size: 18px;
+  font-weight: bold;
+}
