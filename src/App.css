@@ -1,18 +1,37 @@
+/* html, body {height: 100%} */
+
 .App {
-  text-align: center;
   font-family: Avenir;
   font-size: 30px;
+  display: grid;
+  grid-template-columns: 30vw auto;
+  grid-template-areas: "nav content";
+  /* height: 100vh; */
 }
 
-.projects-container {
+.side-bar {
+  grid-area: nav;
+  background: silver;
   text-align: center;
+  /* height: 100%; */
+
+  position: sticky;
+}
+
+.main-container {
+  grid-area: content;
+  overflow: auto;
+  text-align: center;
+  padding: 10%
 }
 
 .project-description {
   font-size: 25px;
+  padding: 3%
 }
 
 .project-technologies {
   font-size: 18px;
   font-weight: bold;
+  padding: 3%;
 }
