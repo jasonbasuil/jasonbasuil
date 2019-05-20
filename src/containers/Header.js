@@ -8,7 +8,7 @@ class Header extends Component {
       <div>
         <img class='hero-component'src={header_img} />
         <h1>Jason Basuil</h1>
-        <h2>Frontend Web Developer</h2>
+        <h3>Web Developer // Nonprofit Co-Founder</h3>
       </div>
     )
   }
