@@ -1,4 +1,3 @@
-/* html, body {height: 100%} */
 
 .App {
   font-family: Avenir;
@@ -6,23 +5,25 @@
   display: grid;
   grid-template-columns: 30vw auto;
   grid-template-areas: "nav content";
-  /* height: 100vh; */
+}
+
+.hero-component {
+  grid-area: content;
+  height: 100%;
+  width: 100%
 }
 
 .side-bar {
   grid-area: nav;
-  background: silver;
+  background: #eeeeee;
   text-align: center;
-  /* height: 100%; */
-
-  position: sticky;
+  width: 100%;
 }
 
 .main-container {
   grid-area: content;
   overflow: auto;
   text-align: center;
-  padding: 10%
 }
 
 .project-description {
@@ -34,4 +35,20 @@
   font-size: 18px;
   font-weight: bold;
   padding: 3%;
+}
+
+#icon{
+  padding: 10px;
+  width: 15%;
+  transition: all .1s ease-in-out;
+}
+
+#icon:hover {
+  transform: scale(1.11);
+}
+
+#headshot {
+  padding-top: 20px;
+  width: 80%;
+  border-radius: 50%;
 }

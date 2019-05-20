@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 import Sidebar from './containers/Sidebar.js'
+import Header from './containers/Header.js'
 import Home from './containers/Home.js'
 import Introduction from './containers/Introduction.js'
 import About from './containers/About.js'
@@ -21,17 +22,10 @@ class App extends Component {
         </div>
         <div class='page'>
           <div class='main-container'>
+            <Header />
             <Introduction />
             <About />
             <Projects />
-            <Contact />
-            <Contact />
-            <Contact />
-            <Contact />
-            <Contact />
-            <Contact />
-            <Contact />
-
           </div>
         </div>
       </div>
