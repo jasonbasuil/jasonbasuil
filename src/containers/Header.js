@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import header_img from '../assets/IMG_0957@2x.png'
+import header_img from '../assets/IMG_0957.png'
 
 class Header extends Component {
 

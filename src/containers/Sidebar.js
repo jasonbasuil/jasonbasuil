@@ -10,13 +10,14 @@ class Sidebar extends Component {
     return(
       <div>
         <img id='headshot' src={headshot}/>
-        <div>Jason Basuil</div>
-        <div>
-          basuilj@gmail.com
-        </div>
-        <div>
-          (408)-772-3695
-        </div>
+        <div class='name'>Jason Basuil</div>
+        <div class='info'>Web Developer // Nonprofit Co-Founder</div>
+          <div>
+            basuilj@gmail.com
+          </div>
+          <div>
+            (408)-772-3695
+          </div>
         <div class='icons-container'>
           <a href='https://www.linkedin.com/in/jasonbasuil/'>
             <img id='icon' src={linkedin} />

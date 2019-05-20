@@ -20,6 +20,13 @@
   width: 100%;
 }
 
+.name {
+  font-size: 2vw;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+
 .main-container {
   grid-area: content;
   overflow: auto;
@@ -42,6 +49,12 @@
   padding-top: 2%;
 }
 
+.project-title {
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+}
+
 .project-description {
   font-size: 20px;
   padding: 3%
@@ -51,6 +64,10 @@
   font-size: 20px;
   font-weight: bold;
   padding: 3%;
+}
+
+a:visited {
+  color: black;
 }
 
 #icon{
