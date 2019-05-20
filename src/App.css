@@ -20,6 +20,10 @@
   width: 100%;
 }
 
+.info {
+  font-size: 2vw;
+}
+
 .name {
   font-size: 2vw;
   font-weight: bold;
