@@ -47,16 +47,23 @@
 }
 
 .project {
+  background-color: #f5f5f5;
   border-style: ridge;
   border-width: thin;
+  border-radius: 30px;
   border-color: black;
   padding-top: 2%;
+  margin: 1vw;
 }
 
 .project-title {
   font-size: 40px;
   font-weight: bold;
-  color: black;
+  transition: .1s;
+}
+
+.project-title:hover {
+  transform: scale(1.11);
 }
 
 .project-description {
@@ -71,7 +78,7 @@
 }
 
 a:visited {
-  color: black;
+  color: #254E70;
 }
 
 #icon{
