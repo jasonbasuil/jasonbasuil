@@ -44,6 +44,7 @@
   grid-area: content;
   overflow: auto;
   text-align: center;
+  background-image: linear-gradient(to bottom, #f0f6ff, #b3c2dd, #7c90bc, #47619a, #003478);
 }
 
 .introduction {
@@ -54,7 +55,7 @@
   padding-bottom: 2%;
   padding-left: 5%;
   padding-right: 5%;
-  margin: 1vw;
+  margin: 3vw;
   box-shadow: 10px 10px 8px #888888;
 }
 
@@ -69,7 +70,7 @@
   border-radius: 30px;
   border-color: black;
   padding-top: 2%;
-  margin: 1vw;
+  margin: 3vw;
   box-shadow: 10px 10px 8px #888888;
 }
 
