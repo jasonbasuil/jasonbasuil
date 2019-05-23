@@ -1,9 +1,6 @@
 .App {
   font-family: 'Oxygen', sans-serif;
   font-size: 20px;
-  display: grid;
-  grid-template-columns: 30vw auto;
-  grid-template-areas: "nav content";
 }
 
 .hero-component {
@@ -18,10 +15,11 @@
 }
 
 .side-bar {
-  grid-area: nav;
+  position: fixed;
+  width: 30vw;
+  height: 100vw;
   background: #eeeeee;
   text-align: center;
-  width: 100%;
 }
 
 .info {
@@ -33,6 +31,12 @@
   font-weight: bold;
   width: 100%;
   text-align: center;
+}
+
+.page {
+  display: grid;
+  grid-template-columns: 30vw auto;
+  grid-template-areas: 'nav content'
 }
 
 .main-container {
