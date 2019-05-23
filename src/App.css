@@ -89,6 +89,10 @@
   padding: 3%
 }
 
+.gif {
+  width: 75%;
+}
+
 .project-technologies {
   font-size: 20px;
   font-weight: bold;

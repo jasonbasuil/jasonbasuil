@@ -15,7 +15,7 @@ class Projects extends Component {
                Top Artists from your Spotify account. Play with your friends with the Search
                feature and test them on their favorite artist's top tracks.
           </div>
-            <img src='https://camo.githubusercontent.com/9750571ee64974f053dd54026db836e6a642a2f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f395069776e46757637627374424862515a582f67697068792e77656270'/><br/>
+            <img class='gif' src='https://camo.githubusercontent.com/9750571ee64974f053dd54026db836e6a642a2f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f395069776e46757637627374424862515a582f67697068792e77656270'/><br/>
             <a class='demo-link' href='https://player.vimeo.com/video/336705911'>Demo</a>
           <div class='project-technologies'>
             React,
@@ -32,7 +32,7 @@ class Projects extends Component {
           <div class='project-description'>Event Matcher is a web application that allows users to search
                for different events nearby and make purchases through Ticketmaster.
           </div>
-          <img src='https://camo.githubusercontent.com/f5996c708ad9875bf22d1a9dc31025fc23281e0f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336833754e634b70574649454a6f39716c7a2f67697068792e676966'/><br/>
+          <img class='gif' src='https://camo.githubusercontent.com/f5996c708ad9875bf22d1a9dc31025fc23281e0f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336833754e634b70574649454a6f39716c7a2f67697068792e676966'/><br/>
           <a class='demo-link' href='https://player.vimeo.com/video/336883307'>Demo</a>
           <div class='project-technologies'>
                 JavaScript,
@@ -51,7 +51,7 @@ class Projects extends Component {
             Create new events, search for events to attend, and view all
             the attendees for your events.
           </div>
-          <img src='https://camo.githubusercontent.com/64d7d0cf517f54648bb0eb107a28903117a2fe82/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f79635a54425479444d7244746231566b572f67697068792e676966'/><br/>
+          <img class='gif' src='https://camo.githubusercontent.com/64d7d0cf517f54648bb0eb107a28903117a2fe82/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f79635a54425479444d7244746231566b572f67697068792e676966'/><br/>
           <div class='project-technologies'>
                 HTML,
                 CSS,
