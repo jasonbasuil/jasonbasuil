@@ -1,17 +1,14 @@
-import React, {Component} from 'react'
-import header_img from '../assets/IMG_0957.png'
+import React from 'react'
 
-class Header extends Component {
+const Header = () => {
 
-  render() {
     return(
       <div>
-        <img class='hero-component'src={header_img} />
-        <h1 class='header-name'>JASON BASUIL</h1>
-        <h3>Web Developer // Nonprofit Co-Founder</h3>
+        <h2 class='header-name'>Hi! I'm Jason <span role='img' aria-label='A hand waving most commonly used to say “hello” or “goodbye”.'>👋</span></h2>
+        <h2>Software Engineer // Nonprofit Co-Founder</h2>
+        <h2>SF Bay Area Native <span role='img' aria-label='A lit-up bridge, shown at night.'>🌉</span></h2>
       </div>
     )
   }
-}
 
 export default Header;
