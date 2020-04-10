@@ -3,8 +3,8 @@ import pic from "../assets/photos/self_selfie.jpg"
 
 const ProfilePic = () => {
   return(
-    <div id="image-container" style={{backgroundImage: `{pic}`}}>
-      
+    <div id="image-container">
+      <img id="profile-photo" src={pic} alt='profile'/>
     </div>
    
   )

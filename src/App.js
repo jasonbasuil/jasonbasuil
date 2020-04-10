@@ -6,6 +6,7 @@ import Introduction from './containers/Introduction.js'
 import About from './containers/About.js'
 import Projects from './containers/Projects.js'
 import Career from "./containers/Career"
+import Tech from "./containers/Tech.js"
 
 import './App.css';
 
@@ -13,13 +14,12 @@ const App = () => {
 
     return (
       <div className="App">
-        <div class='side-bar'>
-          <Sidebar />
-        </div>
+        <Sidebar />
         <div class='page'>
           <div class='main-container'>
             <Header />
             <Introduction />
+            <Tech />
             <Career/>
             <About />
             <Projects />

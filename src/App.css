@@ -3,6 +3,31 @@
   font-size: 20px;
 }
 
+h2 {
+  font-size: 3vw;
+}
+
+h3 {
+  font-size: 2vw;
+}
+
+p {
+  font-size: 1.5vw;
+  text-align: left;
+}
+
+.card span[role=img] {
+  display: block;
+  font-size: 4vw;
+  text-align: center;
+}
+
+.emoji-text {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
 .hero-component {
   grid-area: content;
   height: 100%;
@@ -10,7 +35,7 @@
 }
 
 .header-name {
-  font-size: 5vw;
+  font-size: 6vw;
   color: #100c08;
 }
 
@@ -43,6 +68,7 @@
   grid-area: content;
   overflow: auto;
   text-align: center;
+  max-width: 60vw;
 }
 
 .card {
@@ -113,8 +139,28 @@ a:visited {
 
 #image-container {
   margin-top: 20px;
-  width: 10vw;
-  height: 10vh;
   border-radius: 100%;
-  background-color: green;
+}
+
+#profile-photo {
+  height: 160px;
+  width: 160px;
+  border-radius: 50%;
+}
+
+.job-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+}
+
+.job-logo {
+  grid-area: 1 / 1 / 2 / 2;
+  padding: auto;
+}
+.job-title {
+  grid-area: 1 / 2 / 2 / 5;
+}
+.job-description {
+  grid-area: 2 / 2 / 4 / 5;
 }

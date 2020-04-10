@@ -13,7 +13,7 @@ const Projects = () => {
           </a>
           <div class='project-description'>{project.description}</div>
             <img class='gif' alt='gif' src={project.gifLink}/><br/>
-            <a class='demo-link' href={project.demoLink}>Demo</a>
+            {project.demoLink && <a class='demo-link' href={project.demoLink}>Demo</a>}
           <div class='project-technologies'>{project.technologies}</div>
         </div>
         )}
