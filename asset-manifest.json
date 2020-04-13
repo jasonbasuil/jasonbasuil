@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.092a3a87.chunk.css",
-    "main.js": "/static/js/main.f8927392.chunk.js",
-    "main.js.map": "/static/js/main.f8927392.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.39820cd3.chunk.js": "/static/js/2.39820cd3.chunk.js",
-    "static/js/2.39820cd3.chunk.js.map": "/static/js/2.39820cd3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c22ed0e4a8dcd7ddd8ad5a027fa27ef6.js": "/precache-manifest.c22ed0e4a8dcd7ddd8ad5a027fa27ef6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.092a3a87.chunk.css.map": "/static/css/main.092a3a87.chunk.css.map",
-    "static/media/devto.png": "/static/media/devto.7f3becc1.png",
-    "static/media/earnin_logo.png": "/static/media/earnin_logo.9ba87474.png",
-    "static/media/iconfinder_mark-github_298822.svg": "/static/media/iconfinder_mark-github_298822.0a3a0978.svg",
-    "static/media/iconfinder_twitter_834708.svg": "/static/media/iconfinder_twitter_834708.0106ee41.svg",
-    "static/media/self_snow.jpg": "/static/media/self_snow.ef0a2f26.jpg"
+    "main.css": "/jasonbasuil/static/css/main.092a3a87.chunk.css",
+    "main.js": "/jasonbasuil/static/js/main.ade1e37c.chunk.js",
+    "main.js.map": "/jasonbasuil/static/js/main.ade1e37c.chunk.js.map",
+    "runtime~main.js": "/jasonbasuil/static/js/runtime~main.88423251.js",
+    "runtime~main.js.map": "/jasonbasuil/static/js/runtime~main.88423251.js.map",
+    "static/js/2.39820cd3.chunk.js": "/jasonbasuil/static/js/2.39820cd3.chunk.js",
+    "static/js/2.39820cd3.chunk.js.map": "/jasonbasuil/static/js/2.39820cd3.chunk.js.map",
+    "index.html": "/jasonbasuil/index.html",
+    "precache-manifest.709ee5b81db932d6dff8c357d4f8baeb.js": "/jasonbasuil/precache-manifest.709ee5b81db932d6dff8c357d4f8baeb.js",
+    "service-worker.js": "/jasonbasuil/service-worker.js",
+    "static/css/main.092a3a87.chunk.css.map": "/jasonbasuil/static/css/main.092a3a87.chunk.css.map",
+    "static/media/devto.png": "/jasonbasuil/static/media/devto.7f3becc1.png",
+    "static/media/earnin_logo.png": "/jasonbasuil/static/media/earnin_logo.9ba87474.png",
+    "static/media/iconfinder_mark-github_298822.svg": "/jasonbasuil/static/media/iconfinder_mark-github_298822.0a3a0978.svg",
+    "static/media/iconfinder_twitter_834708.svg": "/jasonbasuil/static/media/iconfinder_twitter_834708.0106ee41.svg",
+    "static/media/self_snow.jpg": "/jasonbasuil/static/media/self_snow.ef0a2f26.jpg"
   }
 }
