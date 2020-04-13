@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/jasonbasuil/static/css/main.781b51fc.chunk.css",
-    "main.js": "/jasonbasuil/static/js/main.254e208b.chunk.js",
-    "main.js.map": "/jasonbasuil/static/js/main.254e208b.chunk.js.map",
-    "runtime~main.js": "/jasonbasuil/static/js/runtime~main.88423251.js",
-    "runtime~main.js.map": "/jasonbasuil/static/js/runtime~main.88423251.js.map",
-    "static/js/2.9575b4d5.chunk.js": "/jasonbasuil/static/js/2.9575b4d5.chunk.js",
-    "static/js/2.9575b4d5.chunk.js.map": "/jasonbasuil/static/js/2.9575b4d5.chunk.js.map",
-    "index.html": "/jasonbasuil/index.html",
-    "precache-manifest.9fadca6eafbf50857e8c5b8a5021e33e.js": "/jasonbasuil/precache-manifest.9fadca6eafbf50857e8c5b8a5021e33e.js",
-    "service-worker.js": "/jasonbasuil/service-worker.js",
-    "static/css/main.781b51fc.chunk.css.map": "/jasonbasuil/static/css/main.781b51fc.chunk.css.map",
-    "static/media/IMG_0957.png": "/jasonbasuil/static/media/IMG_0957.888d6168.png",
-    "static/media/devto.png": "/jasonbasuil/static/media/devto.7f3becc1.png",
-    "static/media/headshot.JPG": "/jasonbasuil/static/media/headshot.a83021f3.JPG",
-    "static/media/iconfinder_mark-github_298822.svg": "/jasonbasuil/static/media/iconfinder_mark-github_298822.0a3a0978.svg",
-    "static/media/iconfinder_twitter_834708.svg": "/jasonbasuil/static/media/iconfinder_twitter_834708.0106ee41.svg",
-    "static/media/logo.svg": "/jasonbasuil/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.092a3a87.chunk.css",
+    "main.js": "/static/js/main.f8927392.chunk.js",
+    "main.js.map": "/static/js/main.f8927392.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.39820cd3.chunk.js": "/static/js/2.39820cd3.chunk.js",
+    "static/js/2.39820cd3.chunk.js.map": "/static/js/2.39820cd3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c22ed0e4a8dcd7ddd8ad5a027fa27ef6.js": "/precache-manifest.c22ed0e4a8dcd7ddd8ad5a027fa27ef6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.092a3a87.chunk.css.map": "/static/css/main.092a3a87.chunk.css.map",
+    "static/media/devto.png": "/static/media/devto.7f3becc1.png",
+    "static/media/earnin_logo.png": "/static/media/earnin_logo.9ba87474.png",
+    "static/media/iconfinder_mark-github_298822.svg": "/static/media/iconfinder_mark-github_298822.0a3a0978.svg",
+    "static/media/iconfinder_twitter_834708.svg": "/static/media/iconfinder_twitter_834708.0106ee41.svg",
+    "static/media/self_snow.jpg": "/static/media/self_snow.ef0a2f26.jpg"
   }
 }
