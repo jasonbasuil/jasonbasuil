@@ -6,8 +6,8 @@ Hi everyone! So glad you could stop by my Github.
 
 - (2008) Wrote my first line of code with Myspace. Was fascinated, but didn't stick with it.
 - (2017) Graduated from college with a degree in Biology with the original intention of heading to dental school. 
-- (2017) Decided to take my first career pivot time when I joined a Seattle startup doing customer support / sales.
-- (2019) Decided to take my second career pivot a year later by attending a coding bootcamp to learn full-stack software engineering.
+- (2017) Decided to take my first career pivot when I joined a Seattle startup doing customer support / sales.
+- (2018) Decided to take my second career pivot a year later by attending a coding bootcamp to learn full-stack software engineering.
 - (2019) Got my first engineering position! Frontend Engineering intern & eventually turned full-time Software Engineer.
 - (2020) LOL. Let's just get this year over with.
 
