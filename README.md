@@ -15,5 +15,5 @@ Hi everyone! So glad you could stop by my Github.
 
 - Fitness! Cycling, lifting, running, hiking, and volleyball! Would love to get into tennis.
 - Family. They're everything.
-- Cooking & Baking. I make a really great triple chocolate cake with strawberry whipped cream cheese filling!
+- Cooking & Baking. I make a really great triple chocolate cake with strawberry whipped cream cheese filling! Also a big fan of bread.
 - Destined for X. Love building this organization and working with driven students. Check us out! [Destined for X](https://www.destinedforx.com)
