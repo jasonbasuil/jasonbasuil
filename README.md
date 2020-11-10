@@ -10,6 +10,7 @@ Hi everyone! So glad you could stop by my Github.
 - (2018) Decided to take my second career pivot a year later by attending a coding bootcamp to learn full-stack software engineering.
 - (2019) Got my first engineering position! Frontend Engineering intern & eventually turned full-time Software Engineer.
 - (2020) LOL. Let's just get this year over with.
+- (2021) Who's to say. 
 
 ## In my free time
 
