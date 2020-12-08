@@ -2,6 +2,9 @@
 
 Hi everyone! So glad you could stop by my Github. 
 
+## Currently 
+Thinking about my next career move. Curious about the low-code movement, state management, fintech, and our human psychology. 
+
 ## My background 
 
 - (2008) Wrote my first line of code with Myspace. Was fascinated, but didn't stick with it.
