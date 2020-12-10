@@ -3,7 +3,7 @@
 Hi everyone! So glad you could stop by my Github. 
 
 ## Currently 
-Thinking about my next career move. Curious about the low-code movement, state management, fintech, and our human psychology. 
+Thinking about my next career move. Curious about the low-code movement, state management, fintech, human psychology, the biological basis of learning, and the role AI will play in the future of our educational systems. 
 
 ## My background 
 
