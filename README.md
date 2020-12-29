@@ -1,4 +1,4 @@
-![Jason Basuil Github Banner](https://res.cloudinary.com/dwgvb9rdh/image/upload/v1594337483/Jason_Basuil_-_Frontend_Engineer_Banner_aust03.png)
+![Jason Basuil Github Banner](https://res.cloudinary.com/dwgvb9rdh/image/upload/v1609201642/Jason_Basuil_-_Frontend_Engineer_Banner_2_wvpe0p.png)
 
 Hi everyone! So glad you could stop by my Github. 
 
