@@ -13,6 +13,7 @@ Thinking about my next career move. Curious about the low-code movement, state m
 - (2018) Decided to take my second career pivot a year later by attending a coding bootcamp to learn full-stack software engineering.
 - (2019) Got my first engineering position! Frontend Engineering intern & eventually turned full-time Software Engineer.
 - (2020) LOL. Let's just get this year over with.
+- (2021) New job who dis? 
 
 ## In my free time
 
